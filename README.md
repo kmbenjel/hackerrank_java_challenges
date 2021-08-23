@@ -1,1 +1,1 @@
-# hackerrank_java_challengesi
+# hackerrank_java_challenges
